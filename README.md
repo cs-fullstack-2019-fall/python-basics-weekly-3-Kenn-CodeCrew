@@ -34,7 +34,7 @@ Once this selection is chosen, ask the user how much money they want to withdraw
 
 ### Challenge
 Before the program starts, ask the user for their account name and a pin number.
-- Instead of using "you", use the account user's name
+- Instead of using "you"/"your", use the account user's name in a proper sentence.
 - Before allowing them to withdraw, check to see if they know the pin number. If they don't get the correct pin, ask them to try again.
 
 
